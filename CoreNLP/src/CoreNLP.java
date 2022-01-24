@@ -9,7 +9,8 @@ import java.util.List;
 import java.util.Properties;
 
 public class CoreNLP {
-
+    // takes in text and prints arrays of names in text
+    // uses part of speech tagger from Stanford Core NLP
     public static void main(String[] args) {
     	
         // creates properties for identification
