@@ -1,0 +1,9 @@
+# Equify
+
+With the increase in hate crimes and visible racism in America, it’s time to identify and hit the root problem, children’s books. Children’s books are the first form of media young kids interact with. Not finding representation in these books can lead to feelings of isolation within children of color, while instilling feelings of superiority within white kids. These books tend to have largely white male characters shown to be the perfect child with good manners, leading children to attach the idea of “good” with “white male”. With Equify, this will no longer be an issue.
+
+Equify serves to add diversity within books. Reprinting every children’s book will not only take forever, it will also be very costly, hence why Equify utilizes technology and targets online reading material which it alters to include characters with diverse names and genders. 
+
+Upon opening Equify, the user is prompted to input their reading file. After utilizing natural language processing and name entity recognition, Equify identifies the names of each character within the book and replaces them with diverse names received from a reliable database. It then outputs a file with the altered book, ready to read along with the option to listen to it as an audiobook.
+
+Equify acts as any other ebook platform, with both online reading and audiobook features, however it stands out with its diversity feature. Upon opening an ebook, the user is prompted to enable “diverse reading” if they wish to do so. If this feature is enabled, Equify utilizes natural language processing and name entity recognition to identify the names of each character within the selected book and then calls to a database hosting diverse names to replace the original character names to include more diversity. This will provide children and adults the ability to find representation within books. It will break the reading barriers to heterogeneity.
